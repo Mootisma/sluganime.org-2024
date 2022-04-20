@@ -40,7 +40,7 @@ const Home: NextPage = () => {
       <main>
         <div className="row">
           <div className="textCol">
-            <h2>UCSC’s very own anime and gaming convention!</h2>
+            <h2>UCSC's very own anime and gaming convention!</h2>
             <h3>Admission is free!</h3>
             <p>
               SlugCon is UCSC's very own anime and gaming convention, hosted by
