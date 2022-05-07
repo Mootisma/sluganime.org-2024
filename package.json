@@ -9,10 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "lightgallery": "^2.4.0",
     "next": "12.1.5",
+    "photoswipe": "^5.2.4",
     "react": "18.0.0",
     "react-dom": "18.0.0",
+    "react-photoswipe-gallery": "^2.1.0",
     "swiper": "^8.1.1"
   },
   "devDependencies": {
