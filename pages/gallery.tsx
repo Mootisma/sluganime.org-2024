@@ -111,12 +111,12 @@ const GalleryPage: NextPage<Props> = ({ artists }: { artists: Artist[] }) => {
                 </div>
                 <p>{artist.introduction}</p>
                 <div className="row artist-socials">
-                  {artist.socials.map((social, i) => (
+                  {artist.socials.map((social, j) => (
                     <a
                       target="_blank"
                       href={social.url}
                       className="artist-social"
-                      key={i}
+                      key={j}
                       rel="noreferrer"
                     >
                       {getSocialIcon(social.type)}

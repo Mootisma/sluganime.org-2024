@@ -47,7 +47,7 @@ h3 {
 
 hr {
   border: 0;
-  width: 96%;               
+  width: 96%;
   background: linear-gradient(90deg, #ff9999 0%, #ff9999 1.04%, #ff6b9a 100%);
   height: 2px;
   margin-bottom: 2em;
@@ -173,7 +173,7 @@ main h2 {
   text-align: center;
   font-size: 18px;
   background: #fff;
-  width: auto;
+  width: auto !important; /* important because bundler reorders styles. i am enraged */
 
   display: flex;
   justify-content: center;
