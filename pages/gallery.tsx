@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { getImageSize } from "next/dist/server/image-optimizer";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Scrollbar, FreeMode } from "swiper";
+import { Scrollbar, FreeMode, Mousewheel } from "swiper";
 
 import config from "../config";
 import logo from "../public/img/logo.png";
@@ -90,9 +90,7 @@ const GalleryPage: NextPage<Props> = ({ artists }: { artists: Artist[] }) => {
               Livestream
             </a>
             <Link href="/#schedule">
-              <a className="button">
-                Schedule
-              </a>
+              <a className="button">Schedule</a>
             </Link>
           </div>
         </div>
@@ -157,11 +155,14 @@ const GalleryPage: NextPage<Props> = ({ artists }: { artists: Artist[] }) => {
                     slidesPerView={"auto"}
                     spaceBetween={30}
                     freeMode={true}
+                    mousewheel={{
+                      forceToAxis: true,
+                    }}
                     scrollbar={{
                       hide: true,
                       draggable: true,
                     }}
-                    modules={[Scrollbar, FreeMode]}
+                    modules={[Scrollbar, FreeMode, Mousewheel]}
                   >
                     {artist.art.map((art, j) => (
                       <SwiperSlide key={j}>
