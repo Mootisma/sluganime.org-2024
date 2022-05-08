@@ -213,7 +213,7 @@ export const getStaticProps = async () => {
               ...artist,
               art: await Promise.all(
                 art
-                  .filter((a) => a !== "p.png" && a.endsWith(".png"))
+                  .filter((a) => a !== "p.png" && a.toLowerCase().endsWith(".png"))
                   .map(async (a) => ({
                     path: `/gallery/${artist.assets}/${a}`,
                     ...(await getImageSize(
