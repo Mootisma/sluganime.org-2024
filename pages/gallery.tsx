@@ -76,9 +76,12 @@ const GalleryPage: NextPage<Props> = ({ artists }: { artists: Artist[] }) => {
 
       <header>
         <div className="header-contents">
-          <div className="logo">
-            <Image src={logo} alt="SlugCon 2022 logo" />
-          </div>
+          <Link href="/">
+            <a className="logo">
+              <Image src={logo} alt="SlugCon 2022 logo" />
+            </a>
+          </Link>
+
           <h1>
             Artist<br></br>Showcase
           </h1>
@@ -213,7 +216,9 @@ export const getStaticProps = async () => {
               ...artist,
               art: await Promise.all(
                 art
-                  .filter((a) => a !== "p.png" && a.toLowerCase().endsWith(".png"))
+                  .filter(
+                    (a) => a !== "p.png" && a.toLowerCase().endsWith(".png")
+                  )
                   .map(async (a) => ({
                     path: `/gallery/${artist.assets}/${a}`,
                     ...(await getImageSize(
