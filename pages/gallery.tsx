@@ -90,7 +90,7 @@ const GalleryPage: NextPage<Props> = ({ artists }: { artists: Artist[] }) => {
               Livestream
             </a>
             <Link href="/#schedule">
-              <a className="button" href="/#schedule">
+              <a className="button">
                 Schedule
               </a>
             </Link>
