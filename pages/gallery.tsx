@@ -89,9 +89,11 @@ const GalleryPage: NextPage<Props> = ({ artists }: { artists: Artist[] }) => {
             <a href="https://www.twitch.tv/slugcon" className="button">
               Livestream
             </a>
-            <a className="button" href="#schedule">
-              Schedule
-            </a>
+            <Link href="/#schedule">
+              <a className="button" href="/#schedule">
+                Schedule
+              </a>
+            </Link>
           </div>
         </div>
       </header>
