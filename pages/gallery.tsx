@@ -2,7 +2,10 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
-import { getImageSize } from "next/dist/server/image-optimizer";
+import {
+  detectContentType,
+  getImageSize,
+} from "next/dist/server/image-optimizer";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Scrollbar, FreeMode, Mousewheel } from "swiper";
 
@@ -13,6 +16,9 @@ import { Gallery, Item } from "react-photoswipe-gallery";
 
 import alley from "../public/gallery/alley.json";
 import { readdir, readFile } from "fs/promises";
+import { readFileSync } from "fs";
+import path from "path";
+import { stringify } from "querystring";
 
 type SocialType =
   | "website"
@@ -50,6 +56,7 @@ type Artist = {
 
 type Props = {
   artists: Artist[];
+  title: string;
 };
 
 const GALLERY_HEIGHT = 250;
@@ -65,11 +72,17 @@ const getSocialIcon = (type: SocialType) => {
   }
 };
 
-const GalleryPage: NextPage<Props> = ({ artists }: { artists: Artist[] }) => {
+const GalleryPage: NextPage<Props> = ({
+  artists,
+  title,
+}: {
+  artists: Artist[];
+  title: string;
+}) => {
   return (
     <div>
       <Head>
-        <title>Gallery | {config.title}</title>
+        <title>Gallery | {title}</title>
         <meta name="description" content="The website for SlugCon 2022!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -114,7 +127,7 @@ const GalleryPage: NextPage<Props> = ({ artists }: { artists: Artist[] }) => {
                 </div>
                 <p>{artist.introduction}</p>
                 <div className="row artist-socials">
-                  {artist.socials.map((social, j) => (
+                  {artist.socials?.map((social, j) => (
                     <a
                       target="_blank"
                       href={social.url}
@@ -164,7 +177,7 @@ const GalleryPage: NextPage<Props> = ({ artists }: { artists: Artist[] }) => {
                     }}
                     modules={[Scrollbar, FreeMode, Mousewheel]}
                   >
-                    {artist.art.map((art, j) => (
+                    {artist.art?.map((art, j) => (
                       <SwiperSlide key={j}>
                         <Item
                           original={art.path}
@@ -205,6 +218,7 @@ const GalleryPage: NextPage<Props> = ({ artists }: { artists: Artist[] }) => {
 };
 
 export const getStaticProps = async () => {
+  console.log(`${alley.length} artists`);
   return {
     props: {
       artists: (
@@ -217,19 +231,30 @@ export const getStaticProps = async () => {
 
             return {
               ...artist,
-              art: await Promise.all(
-                art
-                  .filter(
-                    (a) => a !== "p.png" && a.toLowerCase().endsWith(".png")
-                  )
-                  .map(async (a) => ({
-                    path: `/gallery/${artist.assets}/${a}`,
-                    ...(await getImageSize(
-                      await readFile(`./public/gallery/${artist.assets}/${a}`),
-                      "png"
-                    )),
-                  }))
-              ),
+              art: (
+                await Promise.all(
+                  art
+                    .filter((a) => path.parse(a).base !== "p")
+                    .map(async (a) => {
+                      const buf = readFileSync(
+                        `./public/gallery/${artist.assets}/${a}`
+                      );
+                      const mime = detectContentType(buf);
+                      if (!mime) return null;
+                      const type = mime.split("/")[1] as NonNullable<
+                        ReturnType<typeof detectContentType>
+                      > extends `image/${infer T}`
+                        ? T
+                        : null;
+                      if (type === "svg+xml" || type === "gif") return null;
+
+                      return {
+                        path: `/gallery/${artist.assets}/${a}`,
+                        ...(await getImageSize(buf, type)),
+                      };
+                    })
+                )
+              ).filter((a) => a !== null),
               icon: `/gallery/${artist.assets}/p.png`,
             };
           })
@@ -242,6 +267,7 @@ export const getStaticProps = async () => {
         }
         return 0;
       }),
+      title: config.title,
     },
   };
 };
