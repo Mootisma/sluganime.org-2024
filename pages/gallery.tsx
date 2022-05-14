@@ -15,10 +15,9 @@ import "photoswipe/dist/photoswipe.css";
 import { Gallery, Item } from "react-photoswipe-gallery";
 
 import alley from "../public/gallery/alley.json";
-import { readdir, readFile } from "fs/promises";
+import { readdir } from "fs/promises";
 import { readFileSync } from "fs";
 import path from "path";
-import { stringify } from "querystring";
 
 type SocialType =
   | "website"
@@ -32,7 +31,8 @@ type SocialType =
   | "twitter"
   | "discord"
   | "tiktok"
-  | "artstation";
+  | "artstation"
+  | "pixiv";
 
 type Social = {
   type: SocialType;
@@ -67,6 +67,15 @@ const getSocialIcon = (type: SocialType) => {
       return <i className="fa-solid fa-globe"></i>;
     case "email":
       return <i className="fa-solid fa-envelope"></i>;
+    case "pixiv":
+      return (
+        <img
+          alt="pixiv logo"
+          width={25}
+          style={{ position: "relative", top: 2 }}
+          src="img/pixiv.svg"
+        />
+      );
     default:
       return <i className={`fa-brands fa-${type}`}></i>;
   }
@@ -231,6 +240,16 @@ export const getStaticProps = async () => {
 
             return {
               ...artist,
+              socials: artist.socials
+                ? artist.socials.sort((a, b) => {
+                    if (a.type > b.type) {
+                      return 1;
+                    } else if (a.type < b.type) {
+                      return -1;
+                    }
+                    return 0;
+                  })
+                : null,
               art: (
                 await Promise.all(
                   art
