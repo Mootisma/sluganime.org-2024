@@ -75,6 +75,11 @@ header {
   padding: 12px 48px;
 }
 
+.button.block {
+  margin-top: 1em;
+  display: inline-block;
+}
+
 .header-contents {
   position: relative;
   margin: auto;
@@ -165,7 +170,7 @@ main h2 {
 }
 
 .home .section {
-  margin-bottom: 2em;
+  margin-bottom: 3em;
 }
 
 .home .event {

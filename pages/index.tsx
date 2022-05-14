@@ -55,6 +55,9 @@ const Home: NextPage = () => {
                 Join us at the College Nine/Lewis MPR on May 14th for our
                 Artists’ Alley, panels, giveaways, and more!
               </p>
+                <a className="button block" href="/discord">
+                  Join the Discord!
+                </a>
             </div>
             <div className="imgCol home-image">
               <Image src={con} alt="SlugCon 2022" />
