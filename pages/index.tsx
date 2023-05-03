@@ -23,9 +23,9 @@ const Home: NextPage = () => {
             <Image src={logo} alt="SlugCon 2023 logo" />
           </h1>
           <h2>
-            🕐 May 14th, 1-7PM
+            🕐 May 6th, 1-7PM
             <br />
-            📍 C9/Lewis MPR{" "}
+            📍 Merrill Cultural Center{" "}
           </h2>
           <div className="nav">
             <a href="https://www.twitch.tv/slugcon" className="button">
