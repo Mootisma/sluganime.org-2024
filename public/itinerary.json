@@ -1,31 +1,33 @@
 [
   {
     "time": "1:15PM",
-    "title": "The First Minecraft Parody",
-    "subtitle": "Nicholas Ruiz"
+    "title": "Slug Gaming",
+    "subtitle": "Panel Presented by Slug Gaming"
   },
   {
     "time": "2:15PM",
-    "title": "Studying Japanese Board Game History",
-    "subtitle": "Professor Nathan Altice, Computational Media"
+    "title": "GDA",
+    "subtitle": "Panel Presented by Game Design & Art Colloboration"
   },
   {
     "time": "3:15PM",
-    "title": "Budget Cosplay",
-    "subtitle": "Connor Rickson, Slug Anime and Manga Association"
+    "title": "8Bit Bloom"
+  },
+  {
+    "time": "3:45PM",
+    "title": "Kahoot!",
+    "subtitle": "Presented by MSI"
   },
   {
     "time": "4:15PM",
-    "title": "GDA Game Design Panel",
-    "subtitle": "Game Design & Art Collaboration"
+    "title": "Artist Gartic Phone"
   },
   {
     "time": "5:15PM",
-    "title": "Anime Taboo Game!",
-    "subtitle": "Grifbot"
+    "title": "Guilty Gear Tournament"
   },
   {
     "time": "6:15PM",
-    "title": "Artist Skribbl.io"
+    "title": "Smash Bros. Tournament"
   }
 ]

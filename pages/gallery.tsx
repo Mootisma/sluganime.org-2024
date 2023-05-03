@@ -14,7 +14,7 @@ import logo from "../public/img/logo.png";
 import "photoswipe/dist/photoswipe.css";
 import { Gallery, Item } from "react-photoswipe-gallery";
 
-import alley from "../public/gallery/alley.json";
+import alley from "../public/gallery/artistalley.json";
 import { readdir } from "fs/promises";
 import { readFileSync } from "fs";
 import path from "path";
@@ -92,7 +92,7 @@ const GalleryPage: NextPage<Props> = ({
     <div>
       <Head>
         <title>Gallery | {title}</title>
-        <meta name="description" content="The website for SlugCon 2022!" />
+        <meta name="description" content="The website for SlugCon 2023!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -100,7 +100,7 @@ const GalleryPage: NextPage<Props> = ({
         <div className="header-contents">
           <Link href="/">
             <a className="logo">
-              <Image src={logo} alt="SlugCon 2022 logo" />
+              <Image src={logo} alt="SlugCon 2023 logo" />
             </a>
           </Link>
 
@@ -234,7 +234,7 @@ export const getStaticProps = async () => {
         await Promise.all(
           alley.map(async (artist) => {
             let art = await readdir(`./public/gallery/${artist.assets}`);
-            if (!art.includes("p.png")) {
+            if (!art.includes("p.png") && !art.includes("p.jpg") && !art.includes("p.jpeg") && !art.includes("p.PNG")) {
               throw `no icon for ${artist.name}`;
             }
 

@@ -13,14 +13,14 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>{config.title}</title>
-        <meta name="description" content="The website for SlugCon 2022!" />
+        <meta name="description" content="The website for SlugCon 2023!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <header>
         <div className="header-contents">
           <h1>
-            <Image src={logo} alt="SlugCon 2022 logo" />
+            <Image src={logo} alt="SlugCon 2023 logo" />
           </h1>
           <h2>
             🕐 May 14th, 1-7PM
@@ -49,18 +49,17 @@ const Home: NextPage = () => {
               <h3>Admission is free!</h3>
               <p>
                 SlugCon is UCSC&apos;s very own anime and gaming convention,
-                hosted by SAMA, Slug Gaming, GDA, and College 9.
+                hosted by SAMA, Slug Gaming, GDA, and MSI.
               </p>
               <p>
-                Join us at the College Nine/Lewis MPR on May 14th for our
-                Artists’ Alley, panels, giveaways, and more!
+              Join us at the Merrill Cultural Center on May 6th for our Artists’ Alley, panels, giveaways, and more!
               </p>
                 <a className="button block" href="/discord">
                   Join the Discord!
                 </a>
             </div>
             <div className="imgCol home-image">
-              <Image src={con} alt="SlugCon 2022" />
+              <Image src={con} alt="SlugCon 2023" />
             </div>
           </div>
         </div>
