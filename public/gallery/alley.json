@@ -1,504 +1,535 @@
 [
   {
-    "name": "klqdraws",
-    "introduction": "Hi! I'm KLQ and I draw a lotta stuff I enjoy!",
+    "name": "Catsandcottagecrafts",
+    "introduction": "Hello! My name is Lacey (I also go by Lace), and I like to crochet! I also like to attach pictures of my cat along with my work, so be ready to see a kitty. I do this as a hobby and want to spread the joys of cute, fluffy stuffed animals with everyone. I’m also open to talking to people about my art or other things in general, so feel free to reach out!",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/KlqDraws"
-      },
-      {
-        "type": "youtube",
-        "url": "https://youtube.com/channel/UCzIJog33cyxgSkHXHsvEpoQ"
-      },
-      {
-        "type": "tumblr",
-        "url": "https://klqdraws.tumblr.com/"
-      },
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/klqdraws/"
-      }
-    ],
-    "assets": "klqdraws"
+		{
+			"type": "instagram",
+			"url": "https://instagram.com/catsandcottagecrafts"
+		}
+	],
+	"assets": "Catsandcottagecrafts"
+  },
+  {
+    "name": "Fieryphoenix",
+    "introduction": "Hi! I'm Fieryphoenix, and I draw a little bit, rn I am trying to improve...?",
+	"socials": [
+		{
+			"type": "carrd",
+			"url": "https://fieryphoenix.carrd.co"
+		}
+	],
+	"assets": "fieryphoenix"
+  },
+  {
+    "name": "Toshio",
+    "introduction": "Hello everyone! I’m Alice(she/her), a second year art major and my online name is toshio (or toshiorange). I’ve owned my toshio art account since I started digital art but I recently made my professional and publicized art account with my first name Alice. \n\nMy Alice account will be posting schoolworks mainly and my toshio account will post more fanarts!\n\nHope you enjoy my art!",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://instagram.com/alice.ma_pfl.art"
+		},
+		{
+			"type": "linktree",
+			"url": "https://linktr.ee/toshiorange"
+		}
+	],
+	"assets": "Toshio"
+  },
+  {
+    "name": "aloosh",
+    "introduction": "yo! Im ali and im a third year computer science major at UCSC. i draw and (very rarely) animate stuff. one thing about me is i love sakuga animation :)",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/artaloosh/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/aloosh_484"
+		}
+	],
+	"assets": "aloosh"
+  },
+  {
+    "name": "justtheblueberry",
+    "introduction": "hi!! im jas, aka blueberry, and ima first year agpm major :)\ni do a lot of digital art, and ive been doing a ton of landscapes recently but my main focus is drawing characters! i do a lot of fanart for genshin impact (which i will not shut up about), but im also into a bunch of different anime :) i love talking fandom and fan culture in general, so if ur gonna be at slugcon, feel free to stop by and have a chat! ill be selling a few prints and stickers <3",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/justtheblueberry/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/justheblueberry"
+		},
+		{
+			"type": "tumblr",
+			"url": "https://justheblueberry.tumblr.com/"
+		}
+	],
+	"assets": "justtheblueberry",
+	"store": "https://www.redbubble.com/people/Justheblueberry/shop?asc=u",
+	"commissions": "https://ko-fi.com/justtheblueberry/commissions"
+  },
+  {
+    "name": "sketchybunni",
+    "introduction": "hii i'm bunni, a first year cs major and i draw pretty women °ʚ(*´꒳`*)ɞ°",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://instagram.com/sketchybunni"
+		},
+		{
+			"type": "tiktok",
+			"url": "https://www.tiktok.com/@sketchy_bunni"
+		}
+	],
+	"assets": "sketchybunni"
   },
   {
     "name": "Overcast",
-    "introduction": "I'm Andrew Dunne, a 3rd year Computer Science major at UCSC. Some of my interests/hobbies include: computer graphics, tech art, games, environmentalism, and animation. Outside of work, I enjoy creating pixel art and 3D renders: often of food, nature, fan art, or whatever seems interesting. If you're an artist too, show me your art through discord!",
+    "introduction": "I'm Andrew Dunne, artist/game developer/computational media student. Digital art is cool 😤",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/OvercastZombie"
-      },
-      {
-        "type": "discord",
-        "url": "OvercastZombie#9261"
-      }
-    ],
-    "assets": "Overcast"
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/overcastzombie"
+		},
+		{
+			"type": "tiktok",
+			"url": "https://tiktok.com/@oatvercast"
+		}
+	],
+	"assets": "Overcast"
   },
   {
-    "name": "PotatoDog1",
-    "introduction": "My name is Gillian, and I am currently a fourth year Art major and Art & Design: Games + Playable Media major undergraduate at UCSC. I love making art and trying out new art techniques! As a fun fact, I've dabbled in 2D frame-by-frame, 2D rigged animation, 3D modeling, and 3D animation (although I'm not skilled in any of these things :X ). Other than making art, I like to read trashy romance novels, eat good food, work on my Stardew Valley farm, and sleep.",
+    "name": "doughboiRises",
+    "introduction": "Howdy! I am a 22 year old artist with a love for games! I draw loads of things, from DnD related content, Nintendo to other beloved games! Check me out if my art tickles your tastebuds or to just say hi!",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/p0tat0d0g1"
-      },
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/potatodog1"
-      }
-    ],
-    "assets": "PotatoDog1"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/doughboirises/"
+		}
+	],
+	"assets": "doughboiRises",
+	"commissions": "https://www.instagram.com/p/CpBLQvSvTcE/"
   },
   {
-    "name": "grifbot",
-    "introduction": "Hi I'm grifbot! I'm a UCSC and GDA alumni who loves to draw video games, anime, dnd, Vocaloid, and other random nerdy stuff. I've tabled at past SlugCons but it will be my first time returning in person since 2019.  It would mean a lot if you came by and checked out my work!!!",
+    "name": "issy / inari",
+    "introduction": "Hi everyone! My name is Issy and I use they/them pronouns. I am a third year art major and this is my second time tabling at Slug Con! I am mainly a digital artist that does character art and occasionally animations. I spend a lot of my time sketching rather than making finished pieces. I dabble here and there in fanart as well. I'm super excited to have a booth here again. I hope you enjoy my works! :D",
     "socials": [
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/silmist11/"
-      },
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/silmist_art"
-      },
-      {
-        "type": "tumblr",
-        "url": "https://silmist-art.tumblr.com/"
-      },
-      {
-        "type": "youtube",
-        "url": "https://www.youtube.com/channel/UCR-mbxdAIyCZBzOiSJcOlgQ"
-      }
-    ],
-    "assets": "grifbot"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/inariw00/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/inariw00"
+		},
+		{
+			"type": "tiktok",
+			"url": "https://www.tiktok.com/@inariw00"
+		}
+	],
+	"assets": "inari"
   },
   {
-    "name": "silmist",
-    "introduction": "Hi!! I'm Annie, a 3rd year AGPM major furiously practicing every type of visual art I can get my little hands on. I also do music! I've been making games for a few years now, and have also been upping my various skills in making vocal synth covers. SynthV and Vocaloid own my whole soul.",
+    "name": "PapaPaint546",
+    "introduction": "Hello everyone I'm not good at digital art, so I've put together some things I hope people enjoy. My main focus is painting characters I love, but I also have other things like pins, a sticker, keychain and some beanies...the beanies aren't in the store yet.",
     "socials": [
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/silmist11/"
-      },
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/silmist_art"
-      },
-      {
-        "type": "tumblr",
-        "url": "https://silmist-art.tumblr.com/"
-      },
-      {
-        "type": "youtube",
-        "url": "https://www.youtube.com/channel/UCR-mbxdAIyCZBzOiSJcOlgQ"
-      }
-    ],
-    "assets": "silmist"
+		{
+			"type": "instagram",
+			"url": "https://instagram.com/papapaint546"
+		}
+	],
+	"assets": "PapaPaint546",
+	"store": "https://forms.gle/19ASxHx7HKFJgrr96"
   },
   {
-    "name": "stargyaru",
-    "introduction": "Hi! I'm annalivia martin-straw (known elsewhere as stargyaru). I'm an art major here at UCSC and a frequent collaborator with GDA. I love making art and games about girls, computers, and girls on the computer. Nice to meet you!",
+    "name": "∑sion (Esion)",
+    "introduction": "UCSC General Biology Alumni currently working in a public health laboratory! While in UCSC I collaborated a lot with game designers as an artist on several teams, with the most recent being Bond: Wish of the Forest. (Shout out to the really cool GDA people).\n\nBy collaborating on various games I got to learn a lot about art and gain new techniques and tools to experiment with.",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/stargyaru"
-      },
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/stargyaru/"
-      },
-      {
-        "type": "email",
-        "url": "mailto:amart333@ucsc.edu"
-      }
-    ],
-    "assets": "stargyaru"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/sigma_sion/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/sion_lazuli"
+		}
+	],
+	"assets": "∑sion"
   },
   {
-    "name": "NYG002",
-    "introduction": "Hello! I am NYG and I draw! I am a fan artist for genshin impact. I make both art and merch as well. I hope to create more in the future.",
+    "name": "Madison Li",
+    "introduction": "Hello! My name is Madison, and I'm a 2nd year CS:GD student. This will be my first time vendoring at Slugcon, but I'm very excited to participate! I am mainly a digital artist (Clip Studio Paint Pro + Procreate) and I usually draw original character illustrations of both my and my friends' OCs. I'm hoping to work on more fanart in the future!\n\nMy interests usually revolve around rhythm games (Project Sekai currently! which intersects a bit with:), vocaloid music, and RPGMaker horror games. I also like designing original characters with friends :)\n\nMy commissions are currently closed, but I plan to open them sometime during the summer.",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/nyg002"
-      },
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/nyg002/"
-      }
-    ],
-    "store": "https://www.etsy.com/shop/NYG002",
-    "commissions": "https://ko-fi.com/nyg002",
-    "assets": "NYG002"
-  },
-  {
-    "name": "Adam Aviles",
-    "introduction": "HI! My name is Adam Aviles, a first-year Filipino here at UCSC. I'm majoring in Art: Game Design because it's something that piques two of my main interests, technology and art. I really enjoy drawing, whether that be from photo edits to comic strips, and I want to continue to develop my style. I think I started teaching myself how to draw when I was in 6th grade because of the unholy gaming trends at the time, and it just stuck to me, I guess. I have a lot of art I haven't publicized, so I'm excited to participate in this showcase!",
-    "socials": [
-      {
-        "type": "instagram",
-        "url": ["https://www.instagram.com/adam.b.aviles/"]
-      },
-      {
-        "type": "website",
-        "url": "https://supersmexyart.weebly.com/"
-      },
-      {
-        "type": "email",
-        "url": "mailto:adam.aviles.2003@gmail.com"
-      }
-    ],
-    "assets": "Adam_Aviles"
-  },
-  {
-    "name": "midimayo",
-    "introduction": "Aloha I'm Midi! I'm an illustrator, comic artist and merch designer! I'm also an impish angel Vstreamer! I love bright colors and upbeat music!",
-    "socials": [
-      {
-        "type": "twitter",
-        "url": "http://twitter.com/midimayo"
-      },
-      {
-        "type": "instagram",
-        "url": "http://instagram.com/midimayo"
-      }
-    ],
-    "store": "http://midimayo.com",
-    "assets": "midimayo"
-  },
-  {
-    "name": "Yaboi_Anther",
-    "introduction": "Hello, name's Arthur I'm just hear to cry, eat snacks, and draw. Currently doing Arknights and Genshin fanart.",
-    "socials": [
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/yaboi_anther/"
-      },
-      {
-        "type": "email",
-        "url": "mailto:ali82@ucsc.edu"
-      }
-    ],
-    "assets": "Yaboi_Anther"
-  },
-  {
-    "name": "Sam Inverts",
-    "introduction": "Sam Inverts loves anime and video games, and gets way too excited about them! When not drawing silly meme art, they can be found working on comics and illustrations specifically designed to elicit a reaction of, \"First of all, how dare you.\"",
-    "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/inverts"
-      }
-    ],
-    "store": "https://ko-fi.com/inverts/shop",
-    "assets": "Sam_Inverts"
-  },
-  {
-    "name": "Floor",
-    "introduction": "\u2018>\u2019",
-    "socials": [
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/onthe__e/"
-      }
-    ],
-    "assets": "Floor"
-  },
-  {
-    "name": "fxt soba",
-    "introduction": "Hi! My name is Grace (she/her). I enjoy playing Genshin all day and cosplaying, and sometimes trying to art while having zero clue what I'm doing. I like making stickers and things, please consider checking out my stuff! I'm into manga, anime, lots of nerdy things, the whole shebang. I hope we get to meet someday in person, but for now virtual SlugCon will have to do!",
-    "socials": [
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/fxt.soba/"
-      },
-      {
-        "type": "etsy",
-        "url": "http://www.etsy.com/shop/fxtsoba"
-      },
-      {
-        "type": "tiktok",
-        "url": "https://www.tiktok.com/@fxtsoba"
-      },
-      {
-        "type": "website",
-        "url": "https://linktr.ee/fxtsoba"
-      }
-    ],
-    "store": "http://www.etsy.com/shop/fxtsoba",
-    "assets": "fxt_soba"
-  },
-  {
-    "name": "anniyell",
-    "introduction": "hi!! my name is anael (she/they), and i am a filipino american digital artist, designer, and enjoyer of many many things, including art! i hope you enjoy them as well because it is all i have to offer. i specialize in drawing people, characters, portraits, and my dogs the most!",
-    "socials": [
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/anniyell/"
-      },
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/anniyell"
-      },
-      {
-        "type": "tiktok",
-        "url": "https://www.tiktok.com/@anniyell"
-      }
-    ],
-    "store": "https://www.etsy.com/shop/anniyell/",
-    "assets": "anniyell"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/avanteinkling"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/Nyrimu"
+		}
+	],
+	"assets": "Madison Li",
+	"commissions": "https://avante-art-commissions.carrd.co/"
   },
   {
     "name": "bluemew0",
-    "introduction": "Hi, I\u2019m Ashley and I\u2019m a third year AGPM artist! I often draw fanart of games and anime and I like making my art shiny and pretty!",
+    "introduction": "hello, i'm ashley! i'm a 4th year agpm major and i like games and anime!",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/bluemew0"
-      },
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/bluemew0/"
-      },
-      {
-        "type": "website",
-        "url": "https://luashhley.weebly.com/"
-      },
-      {
-        "type": "twitch",
-        "url": "https://www.twitch.tv/bluemew0"
-      }
-    ],
-    "store": "https://www.redbubble.com/people/bluemew0/shop?asc=u",
-    "commissions": "https://luashhley.weebly.com/information.html",
-    "assets": "bluemew0"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/bluemew0"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/bluemew0"
+		}
+	],
+	"assets": "bluemew0"
   },
   {
-    "name": "NekoNyancakes",
-    "introduction": "Art is cool yo.  I am capable of drawing things other than Abigail Williams but choose not to.  Please commission me to fuel my bugman robot addiction.",
+    "name": "PexeLukive",
+    "introduction": "Hi! I'm Rani (they/them), a first year AGPM major at UCSC. I'm a digital artist that draws a lot of fanart of video games and vtubers! (Please talk to me about Another Eden :D)",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/NekoNyancakes"
-      },
-      {
-        "type": "email",
-        "url": "mailto:kuronekonyancakes@gmail.com"
-      }
-    ],
-    "store": "mailto:kuronekonyancakes@gmail.com",
-    "assets": "NekoNyancakes"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/pexeLukive"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/PexeLukive"
+		}
+	],
+	"assets": "PexeLukive",
+	"store": "https://www.redbubble.com/people/pexelukive/shop?asc=u",
+	"commissions": "https://imgur.com/7Hc0nxl"
   },
   {
-    "name": "kohaikuun",
-    "introduction": "Hi! My name is Issy. I use she/her pronouns and I am a 2nd year art major. I love creating art of my own characters as well as making fanart for various games and shows.",
+    "name": "Snek",
+    "introduction": "Hello snek here! Graduated last quarter so currently living as a neet and job hunting >.>\nHope to see you at the event!",
     "socials": [
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/catfishink/"
-      }
-    ],
-    "assets": "kohaikuun"
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/Sushisnek"
+		}
+	],
+	"assets": "Snek",
+	"store": "https://forms.gle/SxujUkgxTQjE3CcJ6"
   },
   {
-    "name": "Yahuri",
-    "introduction": "im buny \ud83d\udc07",
+    "name": "Taylor",
+    "introduction": "Hello! I’m Taylor and I make jewelry, and hats out of recycled materials. I also make prints!",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/Maidzai"
-      }
-    ],
-    "store": "https://www.redbubble.com/people/Yahuri/shop",
-    "assets": "Yahuri"
+		{
+			"type": "instagram",
+			"url": "https://twitter.com/Strangeharvest"
+		}
+	],
+	"assets": "Taylor"
   },
   {
-    "name": "captainedgeart",
-    "introduction": "Hello everyone! My name is Vika, and I'm a game art major at UCSC! I am a traditional, and digital artist that strives to learn any way I can portray my visions to other people, and have strived to evolve my work in the last five years. Whether it be 2D, 3D, or in a video format, telling stories through my art is what brings me the most excitement in life. The work I'm featuring this year is from a personal project I'm currently working on named \"Timeline Zero\". If you would like to read more, visit my website linked below. I'm looking forward to seeing all of the amazing art that is going to be featured, and meeting fellow artists!",
+    "name": "03RIN",
+    "introduction": "Hello! 🌸 I’m 03RIN and I draw art for fun! I sell prints, charms, stickers, and totebags! Come say hi!",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://www.instagram.com/captainedgeart/"
-      },
-      {
-        "type": "website",
-        "url": "https://victoriarafaelian1.wixsite.com/website/services-1"
-      },
-      {
-        "type": "youtube",
-        "url": "https://www.youtube.com/channel/UCDIoqCvO7pFsMgLyGVAGJcA"
-      },
-      {
-        "type": "artstation",
-        "url": "https://www.artstation.com/vika_rafaelian17"
-      },
-      {
-        "type": "email",
-        "url": "mailto:victoria.rafaelian17@gmail.com"
-      }
-    ],
-    "assets": "captainedgeart"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/03rin__"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/03rin__"
+		}
+	],
+	"assets": "03RIN",
+	"commissions": "https://03rin.carrd.co/"
   },
   {
-    "name": "CatieYupThatsMe",
-    "introduction": "Hi! I\u2019m Catie, I\u2019m a 2D artist currently working on characters and environmental design. My goal is to get into animation, character design, or illustration, and hope to get into an art based career after college.",
+    "name": "shhhkun(guoba)",
+    "introduction": "Hi! My name is Serjo and I'm a 3rd year Comp Engineering student who likes anime and music. I'm not an artist but I find it fun to draw Mari (the SAMA mascot) in different styles, so I hope these are somewhat ok",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/CatieYupThatsMe"
-      }
-    ],
-    "store": "https://www.inprnt.com/profile/catieyupthatsme/",
-    "assets": "CatieYupThatsMe"
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/shhhkun"
+		}
+	],
+	"assets": "shhhkun"
   },
   {
-    "name": "Nyx Aurelia",
-    "introduction": "Hello, I'm a digital artist who loves to paint from fantasy, anime, and games. Currently I'm working on my passion project \"Iteration\", a medieval-cosmic universe of my original characters, and my dream is to build a freelance art career for myself so that I can continue this creation! Also I'm a student at UCLA, though I've taken a break to focus on my art for a series of complex reasons QAQ. But welcome, and enjoy!",
+    "name": "果NYG",
+    "introduction": "果NYG\nthey/them",
     "socials": [
-      {
-        "type": "instagram",
-        "url": "https://instagram.com/nyx_aurelia"
-      },
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/nyx_aurelia"
-      },
-      {
-        "type": "youtube",
-        "url": "https://youtube.com/channel/UCBA0h5jKsiK9NoRuJhiMa3Q"
-      },
-      {
-        "type": "deviantart",
-        "url": "https://deviantart.com/nyxaurelia"
-      },
-      {
-        "type": "email",
-        "url": "mailto:nyx_aurelia@gmx.com"
-      }
-    ],
-    "store": "https://www.nyxaurelia.art/",
-    "commissions": "https://www.nyxaurelia.art/commissions",
-    "assets": "Nyx_Aurelia"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/guo.nyg/"
+		}
+	],
+	"assets": "NYG"
   },
   {
-    "name": "\u2211sion",
-    "introduction": "Simply vibing. Art's pretty cool but what is will power :') \n Alumni graduated from UCSC in 2021.",
+    "name": "ink_toaster",
+    "introduction": "Hi!!! I'm Michael! I am a second year cs major and like to make art!",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/sion_lazuli"
-      }
-    ],
-    "assets": "\u2211sion"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/ink_toaster/"
+		}
+	],
+	"assets": "ink_toaster"
   },
   {
-    "name": "Soyemilky",
-    "introduction": "hii I draw cute anime girls and stuff :) ",
+    "name": "@potatodogstudio",
+    "introduction": "Hi! My name is Gillian, I graduated from UCSC as a double major in Art and AGPM.  I make potato dog stickers and love trying out new art tools and finding ways to use both traditional and digital art in my day-to-day art practice. I love drinking boba and trying out new things :3",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/soyemilky"
-      },
-      {
-        "type": "instagram",
-        "url": "https://instagram.com/soyemilky"
-      }
-    ],
-    "commissions": "https://twitter.com/soyemilky/status/1384622030796951552",
-    "assets": "Soyemilky"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/potatodogstudio/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://www.twitter.com/potatodogstudio/"
+		}
+	],
+	"assets": "potatodogstudio",
+	"store": "http://sites.google.com/view/potato-dog/"
   },
   {
-    "name": "mei_draws",
-    "introduction": "Heya! My name is Mei, I am a first-year student at UCSC majoring in Art & Design: Games and playable media. I started digital art a few years ago and I am still trying to improve currently. I am interested in drawing anime characters and video game characters such as Genshin Impact. I prefer drawing portraits and faces! I also started to make some merch recently, I hope you guys can go check them out!",
+    "name": "Sketch",
+    "introduction": "HELLO I'm Sketch I do art but it makes me violently ill. Commissions always open if you like my work :D",
     "socials": [
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/mei_draws/"
-      }
-    ],
-    "store": "https://my-store-ca28c1.creator-spring.com",
-    "assets": "mei_draws"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/applesketchz/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://www.twitter.com/applesketchz/"
+		},
+		{
+			"type": "youtube",
+			"url": "https://www.youtube.com/channel/UCzeHISWml_VOK8EyaPJoixQ"
+		},
+		{
+			"type": "artstation",
+			"url": "https://www.artstation.com/applezsketch"
+		}
+	],
+	"assets": "Sketch"
   },
   {
-    "name": "DK",
-    "introduction": "I mostly draw OCs, and rarely any fanart. I'm a STEM major, and I LOVE LEAGUE!!! (but I'm not very good at either).",
-    "assets": "DK"
+    "name": "tarobun.arts",
+    "introduction": "Hello, I’m Jasmine! I’m a second year computer science major and I like to make fanart and OC art in my free time.",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://instagram.com/tarobun.arts"
+		}
+	],
+	"assets": "tarobun"
   },
   {
-    "name": "Minoumao",
-    "introduction": "Have you ever wanted to experience the crippling stress from being both in Art and Computer Science? Well this lad has you covered. Fueled by the latest in radioactive waste, this artist makes character designs, storyboards, and illustrations with focus on TV and Animations. Doing art on Photoshop, Sketchbook Pro, and the back of any homework and test, you can experience the effects of never having sleep.",
+    "name": "NoxTarrOwl",
+    "introduction": "Hello! I'm Max (he/him) 3rd year exchange student from England!\n\nSome of you may remember me from the Winter art fest (this will be my second and final time tabling at UCSC). There's some new prints this time with all the ones I had last time also returning! Everything will be available in 6x4!\n\nCheck out my socials if you want to see more art and such! It's a lot of weird original stuff with some animations thrown in there. Looking forward to seeing you all at SlugCon!",
     "socials": [
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/minoumaodesign/"
-      },
-      {
-        "type": "artstation",
-        "url": "https://www.artstation.com/minoumao"
-      },
-      {
-        "type": "youtube",
-        "url": "https://www.youtube.com/channel/UCKkrtV-f5VMPBcpq8r0BO3g"
-      },
-      {
-        "type": "website",
-        "url": "https://violinhare.wixsite.com/minoumaoart"
-      },
-      {
-        "type": "email",
-        "url": "mailto:violinhare@gmail.com"
-      }
-    ],
-    "assets": "Minoumao"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/noxtarrowl/"
+		},
+		{
+			"type": "youtube",
+			"url": "https://www.youtube.com/channel/UC-QgtpR365w3JGO-yXiJ25w"
+		}
+	],
+	"assets": "NoxTarrOwl"
   },
   {
-    "name": "fieryphoenix",
-    "introduction": "Hi! I'm Fieryphoenix, and I draw a little bit, rn I am trying to improve...?",
+    "name": "Sivairon",
+    "introduction": "I'm Maddox and have recently been trying to improve my art ;>; I usually draw OCs and my one and only dream is to one day become a *star*",
     "socials": [
-      {
-        "type": "instagram",
-        "url": "https://www.instagram.com/fieryphoenix_art/"
-      },
-      {
-        "type": "pixiv",
-        "url": "https://www.pixiv.net/en/users/67431367"
-      },
-      {
-        "type": "website",
-        "url": "https://www.hoyolab.com/accountCenter/postList?id=46994287"
-      },
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/0Fieryphoenix0"
-      }
-    ],
-    "assets": "fieryphoenix",
-    "commissions": "https://fieryphoenix.carrd.co/#commissioninfo"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/Sivainoi/"
+		}
+	],
+	"assets": "Sivainoi"
   },
   {
-    "name": "Lee",
-    "introduction": "Hey I'm Lee! I use he/him pronouns and I'm a 3rd year AGPM major filipino artist! I like drawing original characters the most, but will draw the occasional fanart of media I am currently into. I like making stories, fantasizing about making animatics, and trying new things in my art! ",
+    "name": "buttcones",
+    "introduction": "CS student by day, radioactively feral artist by night. all proceeds will go toward my next TOGO sandwich, thank you",
     "socials": [
-      {
-        "type": "twitter",
-        "url": "https://twitter.com/alien_bluez"
-      },
-      {
-        "type": "tumblr",
-        "url": "https://www.tumblr.com/blog/insomaniiiac"
-      },
-      {
-        "type": "website",
-        "url": "https://toyhou.se/ssundropz"
-      },
-      {
-        "type": "youtube",
-        "url": "https://www.youtube.com/user/MikiMusicVidz/videos"
-      }
-    ],
-    "assets": "Lee"
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/buttcones/"
+		}
+	],
+	"assets": "buttcones",
+	"commissions": "https://orioncomms.carrd.co/"
+  },
+  {
+    "name": "PoopManBoxMan",
+    "introduction": "Hello! I'm the PoopManBoxMan! I like to draw, play fgc games, and play TF2!  I'll be at the artist alley in-person at SlugCon 2023, so if you want to meet me, you can! ::DD \n If you see something you're interested in, you may pre-order artprints here!: https://forms.gle/QZqd36LsJyMiS2Ft8 \nOtherwise, you may check me out on my socials~ \nThanks and see you there! ;;DDD",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/poopmanboxman/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://www.twitter.com/PoopManBoxMan/"
+		},
+		{
+			"type": "youtube",
+			"url": "https://www.youtube.com/channel/UCX8L3GcX2_e9W5FTGE0dbog"
+		},
+		{
+			"type": "twitch",
+			"url": "https://www.twitch.tv/thepoopmanboxman"
+		}
+	],
+	"assets": "PoopManBoxMan"
+  },
+  {
+    "name": "Tudoumi",
+    "introduction": "Hi! My name is Lily, you can call me Tudou. I’m a 2nd year Computer Science Game Design major. I don’t currently use social media for art but I like Genshin, 2ha, and drawing my own OCs.",
+    "socials": [
+	],
+	"assets": "Tudoumi"
+  },
+  {
+    "name": "@emiree_draws",
+    "introduction": "Heyo! My name is Emily (they/them), but I go by emiree_draws! I am a 2nd year AGPM major at UCSC. I am interested in cartoon shows (like the owl house, steven universe, kipo), webtoons (I'm a huge hopeless romantic), anime (currently watching horiyama), video games (catch me playing stardew valley), and drawing digitally. >:)",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/emiree_draws/"
+		}
+	],
+	"assets": "emiree_draws",
+	"commissions": "https://ko-fi.com/emiree_draws"
+  },
+  {
+    "name": "Soybeans",
+    "introduction": "Hi frens :D!!!! I am Soybeans :D!!!!",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/soy.beanzzz/"
+		}
+	],
+	"assets": "Soybeans"
+  },
+  {
+    "name": "Tien!",
+    "introduction": "Poy! I'm Tien, and I draw/animate/make things in general! I don't have a whole lot to show (cough college cough not worth cough student debt cough) but thanks for checking out what I do have!! Mostly I like to do character design and draw me/my friends, but every now and then I'll do some fanart! \nLook out next year for my amazing merch debut!",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/kickthecan_lee/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://www.twitter.com/kickthecan_lee/"
+		},
+		{
+			"type": "tiktok",
+			"url": "https://www.tiktok.com/@kickthecan_lee"
+		}
+	],
+	"assets": "AVUD"
+  },
+  {
+    "name": "Manga.Crybaby",
+    "introduction": "✨hi everyone✨\n\nFirst time actually sharing my art with the world in a wider range other than my Sketchbook Insta! \n\nI was actually last year’s SlugCon Host, and the year before that I did a virtual panel on the Psychology of JJBA and how it impacted my life!\n\nI graduated from UCSC last year with a BA in Psychology!\n\nI’ve been trying to build up my confidence by sharing my art since I’m pretty much self taught…I want to push myself further than I believe in! \n\nI’m working on surprising y’all with some stuff I’ve been working on for weeks and I’m hoping to premier it all at my first art event ever! \n\n🌙Can’t wait to meet and see y’all!🌙",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/manga.crybaby/"
+		}
+	],
+	"assets": "Cynthia",
+	"store": "https://forms.gle/RpESzBaT6xuxMrye6"
+  },
+  {
+    "name": "Dwerple",
+    "introduction": "I'm Dwerple! I draw a lot of Kazuha and Wanderer fanart, and I love making stickers and emotes~ I'm a big fan of cute things, and probably too addicted to gatcha...",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/dwerple/"
+		},
+		{
+			"type": "carrd",
+			"url": "https://dwerple.carrd.co/"
+		}
+	],
+	"assets": "dwerple",
+	"store": "https://www.etsy.com/shop/dwerple/?etsrc=sdt"
+  },
+  {
+    "name": "Tiny Tabby",
+    "introduction": "Hello!  I’m Ari (they/them) an I do digital art, acrylic paintings, and animations (as a CS major).",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/tiny.tabby/"
+		},
+		{
+			"type": "youtube",
+			"url": "https://youtube.com/@TinyTabby"
+		}
+	],
+	"assets": "Ari"
+  },
+  {
+    "name": "ami.crafts.and.charms",
+    "introduction": "Hello! My name is Amirah, and I like to make things out of clay. I took a sculpture and ceramics class in high school, and I’ve stuck with sculpting ever since. My favorite things to make are miniature animals, but earrings with charms seem to be the most popular at festivals and shows. I’m super excited for Slug Con, and I can’t wait to see all the amazing art in person! I didn’t table at Slug Con last year, but I went to some of the events and had a blast!",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/ami.crafts.and.charms"
+		}
+	],
+	"assets": "Amirah",
+	"store": "https://linktr.ee/ami.crafts.and.charms"
+  },
+  {
+    "name": "Pareidolia",
+    "introduction": "Hey everyone! I'm Vika, a recent AGPM grad, AKA the jojo lady. Come stop by if you wanna get some cool prints and stickers, check out a comic I'm working on, or just chat! I'd love to meet as many of you as possible. Hope everyone has an awesome week ;)",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/tiny.tabby/"
+		},
+		{
+			"type": "youtube",
+			"url": "https://youtube.com/@TinyTabby"
+		}
+	],
+	"assets": "Pareidolia"
+  },
+  {
+    "name": "Crocheting Cuttlefish",
+    "introduction": "Hello! I do digital art, traditional art, and crochet, though for SlugCon I'm only selling my crochet stuff. My insta is pretty bare but I hope to start posting more often. :3",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/smolplanarian/"
+		}
+	],
+	"assets": "Cuttlefish"
+  },
+  {
+    "name": "Kogetsu?Hatena",
+    "introduction": "Hi everyone! My name is Kogetsu?Hatena, a 4th year CS:Game Design! I'm an aspiring artist and game designer, and I'm excited to participate in SlugCon! Hope to see you there! In the mean time, here's some of my old works, and stay tuned for some more at SlugCon :D",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://instagram.com/kogetsuhatena"
+		}
+	],
+	"assets": "KogetsuHatena"
   }
 ]
