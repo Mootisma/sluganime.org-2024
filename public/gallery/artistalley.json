@@ -53,7 +53,7 @@
   },
   {
     "name": "justtheblueberry",
-    "introduction": "hi!! im jas, aka blueberry, and ima first year agpm major :)\ni do a lot of digital art, and ive been doing a ton of landscapes recently but my main focus is drawing characters! i do a lot of fanart for genshin impact (which i will not shut up about), but im also into a bunch of different anime :) i love talking fandom and fan culture in general, so if ur gonna be at slugcon, feel free to stop by and have a chat! ill be selling a few prints and stickers <3",
+    "introduction": "",
     "socials": [
 		{
 			"type": "instagram",
@@ -66,84 +66,23 @@
 		{
 			"type": "tumblr",
 			"url": "https://justheblueberry.tumblr.com/"
+		},
+		{
+			"type": "carrd",
+			"url": "https://fieryphoenix.carrd.co"
+		},
+		{
+			"type": "tiktok",
+			"url": "https://www.tiktok.com/@sketchy_bunni"
+		},
+		{
+			"type": "pixiv",
+			"url": "https://www.pixiv.net/en/artworks/117434288"
 		}
 	],
 	"assets": "justtheblueberry",
 	"store": "https://www.redbubble.com/people/Justheblueberry/shop?asc=u",
 	"commissions": "https://ko-fi.com/justtheblueberry/commissions"
-  },
-  {
-    "name": "sketchybunni",
-    "introduction": "hii i'm bunni, a first year cs major and i draw pretty women °ʚ(*´꒳`*)ɞ°",
-    "socials": [
-		{
-			"type": "instagram",
-			"url": "https://instagram.com/sketchybunni"
-		},
-		{
-			"type": "tiktok",
-			"url": "https://www.tiktok.com/@sketchy_bunni"
-		}
-	],
-	"assets": "sketchybunni"
-  },
-  {
-    "name": "Overcast",
-    "introduction": "I'm Andrew Dunne, artist/game developer/computational media student. Digital art is cool 😤",
-    "socials": [
-		{
-			"type": "twitter",
-			"url": "https://twitter.com/overcastzombie"
-		},
-		{
-			"type": "tiktok",
-			"url": "https://tiktok.com/@oatvercast"
-		}
-	],
-	"assets": "Overcast"
-  },
-  {
-    "name": "doughboiRises",
-    "introduction": "Howdy! I am a 22 year old artist with a love for games! I draw loads of things, from DnD related content, Nintendo to other beloved games! Check me out if my art tickles your tastebuds or to just say hi!",
-    "socials": [
-		{
-			"type": "instagram",
-			"url": "https://www.instagram.com/doughboirises/"
-		}
-	],
-	"assets": "doughboiRises",
-	"commissions": "https://www.instagram.com/p/CpBLQvSvTcE/"
-  },
-  {
-    "name": "issy / inari",
-    "introduction": "Hi everyone! My name is Issy and I use they/them pronouns. I am a third year art major and this is my second time tabling at Slug Con! I am mainly a digital artist that does character art and occasionally animations. I spend a lot of my time sketching rather than making finished pieces. I dabble here and there in fanart as well. I'm super excited to have a booth here again. I hope you enjoy my works! :D",
-    "socials": [
-		{
-			"type": "instagram",
-			"url": "https://www.instagram.com/inariw00/"
-		},
-		{
-			"type": "twitter",
-			"url": "https://twitter.com/inariw00"
-		},
-		{
-			"type": "tiktok",
-			"url": "https://www.tiktok.com/@inariw00"
-		}
-	],
-	"assets": "inari"
-  },
-  {
-    "name": "PapaPaint546",
-    "introduction": "Hello everyone I'm not good at digital art, so I've put together some things I hope people enjoy. My main focus is painting characters I love, but I also have other things like pins, a sticker, keychain and some beanies...the beanies aren't in the store yet.",
-    "socials": [
-		{
-			"type": "instagram",
-			"url": "https://instagram.com/papapaint546"
-		}
-	],
-	"assets": "PapaPaint546",
-	"store": "https://forms.gle/19ASxHx7HKFJgrr96"
   },
   {
     "name": "∑sion (Esion)",
@@ -159,22 +98,6 @@
 		}
 	],
 	"assets": "∑sion"
-  },
-  {
-    "name": "Madison Li",
-    "introduction": "Hello! My name is Madison, and I'm a 2nd year CS:GD student. This will be my first time vendoring at Slugcon, but I'm very excited to participate! I am mainly a digital artist (Clip Studio Paint Pro + Procreate) and I usually draw original character illustrations of both my and my friends' OCs. I'm hoping to work on more fanart in the future!\n\nMy interests usually revolve around rhythm games (Project Sekai currently! which intersects a bit with:), vocaloid music, and RPGMaker horror games. I also like designing original characters with friends :)\n\nMy commissions are currently closed, but I plan to open them sometime during the summer.",
-    "socials": [
-		{
-			"type": "instagram",
-			"url": "https://www.instagram.com/avanteinkling"
-		},
-		{
-			"type": "twitter",
-			"url": "https://twitter.com/Nyrimu"
-		}
-	],
-	"assets": "Madison Li",
-	"commissions": "https://avante-art-commissions.carrd.co/"
   },
   {
     "name": "bluemew0",
