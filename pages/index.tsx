@@ -13,14 +13,14 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>{config.title}</title>
-        <meta name="description" content="The website for SlugCon 2023!" />
+        <meta name="description" content="The website for SlugCon 2024!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <header>
         <div className="header-contents">
           <h1>
-            <Image src={logo} alt="SlugCon 2023 logo" />
+            <Image src={logo} alt="SlugCon 2024 logo" />
           </h1>
           <h2>
             🕐 May 19th, 1-7PM
