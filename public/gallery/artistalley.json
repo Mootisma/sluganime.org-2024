@@ -60,12 +60,131 @@
 	"assets": "bluemew0"
   },
   {
+    "name": "Catsandcottagecrafts",
+    "introduction": "Hello! I'm a banana slug alum who wants to share my own art! I love to crochet critters and other things. I hope to connect with others who enjoy art in all forms :)",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://instagram.com/catsandcottagecrafts"
+		}
+	],
+	"assets": "Catsandcottagecrafts"
+  },
+  {
+    "name": "@emiree_draws",
+    "introduction": "Howdy! My name is Emily (they/them), but I go by emiree_draws! I am a 3rd year AGPM and History double major at UCSC. I am interested in cartoon shows (like the Owl House, Steven Universe, Kipo), webtoons (The Kiss Bet got me in a chokehold), anime (currently rewatching Saiki K), video games (catch me playing stardew valley), and drawing digitally. >:) Let's be friends!",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/emiree_draws/"
+		}
+	],
+	"assets": "emiree_draws",
+	"commissions": "https://ko-fi.com/emiree_draws"
+  },
+  {
+    "name": "Fieryphoenix",
+    "introduction": "Hi! This is Fieryphoenix, Economics Major sophomore at UCSC who draws a little bit. I will be tabling in person for this year’s Slugcon! I will be selling pins and tarot cards like last time, as well as holographic stickers and acrylic keychains, as well as totebags(not sure yet) this year. If you don’t plan on getting anything, still come visit Fieryphoenix! I’ll be happy to see you!",
+	"socials": [
+		{
+			"type": "carrd",
+			"url": "https://fieryphoenix.carrd.co"
+		}
+	],
+	"assets": "fieryphoenix"
+  },
+  {
+    "name": "Issy Nari",
+    "introduction": "Hi hi! My name is Issy or Inari (they/he) and I'm a Senior majoring in AGPM. I love doing character art and dabble here n there in animations as well. I've been pushing myself to make more fully rendered drawings, but I definitely prefer sketching haha. I make a lot of oc content and occasionally fanart of my favorite things. Most of my inspiration comes from the DnD campaign I'm part of, but I also really enjoy watching anime, reading manga, and playing video games!",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/inariw00/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/inariw00"
+		}
+	],
+	"assets": "inari"
+  },
+  {
+    "name": "justtheblueberry",
+    "introduction": "hello~ \nim jas, or bluebs! i make genshin fanart as well as fanart for a few other things like link click and frieren!! i also make books on the side :> i really enjoy talking about fandom and fannish things so please feel free to come by! i have prints of my art and stickers of my cats and some more exciting upcoming designs too :)",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/justtheblueberry/"
+		},
+		{
+			"type": "tumblr",
+			"url": "https://justheblueberry.tumblr.com/"
+		}
+	],
+	"assets": "justtheblueberry",
+	"store": "https://www.redbubble.com/people/Justheblueberry/shop?asc=u",
+	"commissions": "https://ko-fi.com/justtheblueberry/commissions"
+  },
+  {
+    "name": "avanteinkling",
+    "introduction": "Hello all! I'm Madison, a 3rd year CS:GD Student, and I'm a big fan of Vocaloid, RPGMaker games, and more recently, Dungeon Meshi ❤️ I also love making and drawing OCs! Please feel to strike up a convo about any of the above!",
+    "socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/avanteinkling"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/avanteinkling"
+		}
+	],
+	"assets": "avanteinkling"
+  },
+  {
+    "name": "Overcast",
+    "introduction": "Hi I'm Andrew, digital artist and CM masters student here at UCSC! I love experimenting with different forms of digital art like painting, pixel art, animation, 3d modeling, games, and whatever else I can get my grubby hands on. Recently I've gotten into merch (stickers, keychains, etc) design as well, I hope you enjoy the fan merch I've made recently for some of my favorite anime and games!",
+    "socials": [
+		{
+			"type": "carrd",
+			"url": "https://oatvercast.carrd.co"
+		}
+	],
+	"assets": "Overcast"
+  },
+  {
+    "name": "PapaPaint546",
+    "introduction": ":) Follow me on insta @papapaint546 and youtube @mistapops546",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/papapaint546"
+		},
+		{
+			"type": "youtube",
+			"url": "https://www.youtube.com/channel/UCuP0xXVUv938FoxRfogIC2Q"
+		}
+	],
+	"assets": "PapaPaint546"
+  },
+  {
+    "name": "PexeLukive",
+    "introduction": "Hello! I'm Rani/PexeLukive (they/them) and I'm a second year AGPM major! I'm a digital artist who loves drawing fanart of my favorite games (Another Eden and Genshin Impact, and sometimes others) and vtubers (Suisei <333, but also just Hololive in general). Here I'm known for my Genshin slime merch - I've got many stickers, a few prints, and even an acrylic pin of my slimes! (Also please come talk to me about Another Eden :D I want to meet more AE players here at UCSC)",
+    "socials": [
+		{
+			"type": "linktree",
+			"url": "https://linktr.ee/pexelukive"
+		}
+	],
+	"assets": "PexeLukive",
+	"store": "https://www.redbubble.com/people/pexelukive/shop?asc=u"
+  },
+  {
     "name": "a",
     "introduction": "a",
 	"socials": [
 		{
-			"type": "carrd",
-			"url": "a"
+			"type": "linktree",
+			"url": "https://linktr.ee/pexelukive"
 		}
 	],
 	"assets": "shhhkun"
