@@ -32,6 +32,8 @@ type SocialType =
   | "discord"
   | "tiktok"
   | "artstation"
+  | "linktree"
+  | "carrd"
   | "pixiv";
 
 type Social = {
@@ -74,6 +76,24 @@ const getSocialIcon = (type: SocialType) => {
           width={25}
           style={{ position: "relative", top: 2 }}
           src="img/pixiv.svg"
+        />
+      );
+	case "linktree":
+      return (
+        <img
+          alt="linktree logo"
+          width={25}
+          style={{ position: "relative", top: 2 }}
+          src="img/linktree.svg"
+        />
+      );
+	case "carrd":
+      return (
+        <img
+          alt="carrd logo"
+          width={25}
+          style={{ position: "relative", top: 2 }}
+          src="img/carrd.svg"
         />
       );
     default:
