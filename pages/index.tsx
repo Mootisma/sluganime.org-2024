@@ -23,7 +23,7 @@ const Home: NextPage = () => {
             <Image src={logo} alt="SlugCon 2023 logo" />
           </h1>
           <h2>
-            🕐 May 6th, 1-7PM
+            🕐 May 19th, 1-7PM
             <br />
             📍 Merrill Cultural Center{" "}
           </h2>
