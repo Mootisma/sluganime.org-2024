@@ -1,18 +1,18 @@
 [
   {
-    "name": "Catsandcottagecrafts",
-    "introduction": "Hello! My name is Lacey (I also go by Lace), and I like to crochet! I also like to attach pictures of my cat along with my work, so be ready to see a kitty. I do this as a hobby and want to spread the joys of cute, fluffy stuffed animals with everyone. I’m also open to talking to people about my art or other things in general, so feel free to reach out!",
+    "name": "a",
+    "introduction": "a",
     "socials": [
 		{
 			"type": "instagram",
-			"url": "https://instagram.com/catsandcottagecrafts"
+			"url": "https://instagram.com/sluganimeucsc"
 		}
 	],
 	"assets": "Catsandcottagecrafts"
   },
   {
-    "name": "Fieryphoenix",
-    "introduction": "Hi! I'm Fieryphoenix, and I draw a little bit, rn I am trying to improve...?",
+    "name": "a",
+    "introduction": "a",
 	"socials": [
 		{
 			"type": "carrd",
@@ -21,114 +21,4 @@
 	],
 	"assets": "fieryphoenix"
   },
-  {
-    "name": "Toshio",
-    "introduction": "Hello everyone! I’m Alice(she/her), a second year art major and my online name is toshio (or toshiorange). I’ve owned my toshio art account since I started digital art but I recently made my professional and publicized art account with my first name Alice. \n\nMy Alice account will be posting schoolworks mainly and my toshio account will post more fanarts!\n\nHope you enjoy my art!",
-	"socials": [
-		{
-			"type": "instagram",
-			"url": "https://instagram.com/alice.ma_pfl.art"
-		},
-		{
-			"type": "linktree",
-			"url": "https://linktr.ee/toshiorange"
-		}
-	],
-	"assets": "Toshio"
-  },
-  {
-    "name": "aloosh",
-    "introduction": "yo! Im ali and im a third year computer science major at UCSC. i draw and (very rarely) animate stuff. one thing about me is i love sakuga animation :)",
-    "socials": [
-		{
-			"type": "instagram",
-			"url": "https://www.instagram.com/artaloosh/"
-		},
-		{
-			"type": "twitter",
-			"url": "https://twitter.com/aloosh_484"
-		}
-	],
-	"assets": "aloosh"
-  },
-  {
-    "name": "justtheblueberry",
-    "introduction": "",
-    "socials": [
-		{
-			"type": "instagram",
-			"url": "https://www.instagram.com/justtheblueberry/"
-		},
-		{
-			"type": "twitter",
-			"url": "https://twitter.com/justheblueberry"
-		},
-		{
-			"type": "tumblr",
-			"url": "https://justheblueberry.tumblr.com/"
-		},
-		{
-			"type": "carrd",
-			"url": "https://fieryphoenix.carrd.co"
-		},
-		{
-			"type": "tiktok",
-			"url": "https://www.tiktok.com/@sketchy_bunni"
-		},
-		{
-			"type": "pixiv",
-			"url": "https://www.pixiv.net/en/artworks/117434288"
-		}
-	],
-	"assets": "justtheblueberry",
-	"store": "https://www.redbubble.com/people/Justheblueberry/shop?asc=u",
-	"commissions": "https://ko-fi.com/justtheblueberry/commissions"
-  },
-  {
-    "name": "∑sion (Esion)",
-    "introduction": "UCSC General Biology Alumni currently working in a public health laboratory! While in UCSC I collaborated a lot with game designers as an artist on several teams, with the most recent being Bond: Wish of the Forest. (Shout out to the really cool GDA people).\n\nBy collaborating on various games I got to learn a lot about art and gain new techniques and tools to experiment with.",
-    "socials": [
-		{
-			"type": "instagram",
-			"url": "https://www.instagram.com/sigma_sion/"
-		},
-		{
-			"type": "twitter",
-			"url": "https://twitter.com/sion_lazuli"
-		}
-	],
-	"assets": "∑sion"
-  },
-  {
-    "name": "bluemew0",
-    "introduction": "hello, i'm ashley! i'm a 4th year agpm major and i like games and anime!",
-    "socials": [
-		{
-			"type": "instagram",
-			"url": "https://www.instagram.com/bluemew0"
-		},
-		{
-			"type": "twitter",
-			"url": "https://twitter.com/bluemew0"
-		}
-	],
-	"assets": "bluemew0"
-  },
-  {
-    "name": "PexeLukive",
-    "introduction": "Hi! I'm Rani (they/them), a first year AGPM major at UCSC. I'm a digital artist that draws a lot of fanart of video games and vtubers! (Please talk to me about Another Eden :D)",
-    "socials": [
-		{
-			"type": "pixiv",
-			"url": "https://www.pixiv.net/en/artworks/117434288"
-		},
-		{
-			"type": "twitter",
-			"url": "https://twitter.com/PexeLukive"
-		}
-	],
-	"assets": "PexeLukive",
-	"store": "https://www.redbubble.com/people/pexelukive/shop?asc=u",
-	"commissions": "https://imgur.com/7Hc0nxl"
-  }
 ]
