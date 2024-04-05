@@ -48,18 +48,18 @@ const Home: NextPage = () => {
               <h2>UCSC&apos;s very own anime and gaming convention!</h2>
               <h3>Admission is free!</h3>
               <p>
-                SlugCon is UCSC&apos;s very own anime and gaming convention,
-                hosted by SAMA, Slug Gaming, GDA, and MSI.
+                SlugCon is UCSC&apos;s very own anime convention,
+				hosted by SAMA!
               </p>
               <p>
-              Join us at the Merrill Cultural Center on May 6th for our Artists’ Alley, panels, giveaways, and more!
+              Join us at the Merrill Cultural Center on May 19th for our Artists’ Alley, Maid Cafe, panels, giveaways, and more!
               </p>
                 <a className="button block" href="/discord">
                   Join the Discord!
                 </a>
             </div>
             <div className="imgCol home-image">
-              <Image src={con} alt="SlugCon 2023" />
+              <Image src={con} alt="SlugCon 2024" />
             </div>
           </div>
         </div>
