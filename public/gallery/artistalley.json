@@ -1,14 +1,63 @@
 [
   {
-    "name": "a",
-    "introduction": "a",
+    "name": "aloosh",
+    "introduction": "Hello! My names ali and i'm a 4th yr cs major who enjoys drawing a lot of stuff. I like watching sakuga animation. I also like Laios from dungeon meshi. Thank you for reading 👍",
+    "socials": [
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/uhloosh"
+		}
+	],
+	"assets": "aloosh"
+  },
+  {
+    "name": "Ari",
+    "introduction": "hey guys I’m Tiny Tabby I draw and animate as a CS major and that’s about it ",
     "socials": [
 		{
 			"type": "instagram",
-			"url": "https://instagram.com/sluganimeucsc"
+			"url": "https://www.instagram.com/tiny.tabby"
 		}
 	],
-	"assets": "Catsandcottagecrafts"
+	"assets": "Ari"
+  },
+  {
+    "name": "AVUD",
+    "introduction": "Poy! I'm Tien! I do art and stuff, but mostly I just like to make things!",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/kickthecan_lee/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/kickthecan_lee"
+		},
+		{
+			"type": "tiktok",
+			"url": "https://www.tiktok.com/@kickthecan_lee"
+		}
+	],
+	"assets": "AVUD"
+  },
+  {
+    "name": "bluemew0",
+    "introduction": "Hello! I'm Ashley and I'm UCSC alum! I like making fanart of games and anime! Talk to me about Genshin Impact and romance anime/manga!",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/bluemew0/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/bluemew0"
+		},
+		{
+			"type": "tumblr",
+			"url": "https://bluemew0.tumblr.com/"
+		}
+	],
+	"assets": "bluemew0"
   },
   {
     "name": "a",
@@ -16,9 +65,9 @@
 	"socials": [
 		{
 			"type": "carrd",
-			"url": "https://fieryphoenix.carrd.co"
+			"url": "a"
 		}
 	],
-	"assets": "fieryphoenix"
+	"assets": "shhhkun"
   }
 ]
