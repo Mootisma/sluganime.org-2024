@@ -1,5 +1,5 @@
 const config = {
-    title: "SlugCon 2023"
+    title: "SlugCon 2024"
 }
 
 export default config;

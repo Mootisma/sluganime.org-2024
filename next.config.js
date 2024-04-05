@@ -7,7 +7,7 @@ const nextConfig = {
   redirects: async () => [
     {
       source: "/discord",
-      destination: "https://discord.gg/5V6YMuHrX3",
+      destination: "https://discord.gg/6PxVsDv",
       permanent: false,
     },
   ],
