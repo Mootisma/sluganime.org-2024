@@ -219,7 +219,7 @@
   },
   {
     "name": "Sketch",
-    "introduction": "Hi there! I'm Sketch and I love to gamble. ",
+    "introduction": "Hi there! I'm Sketch and I love to gamble.",
     "socials": [
 		{
 			"type": "instagram",
@@ -315,12 +315,291 @@
 	"assets": "srsurchin"
   },
   {
+    "name": "ishugo.co",
+    "introduction": "ishugo.co is made by friends of different aesthetics bound by one word: ishugo!! we seek to create high quality resin crafts and stickers with varying themes that we all enjoy. we want to share and represent what we’re able to bond over — something we hope you’ll be able to bond with as well. we’re currently selling boba-themed keycap fidget chains and cute stickers! feeling bored waiting for the bus? with one of our customizable resin printed fidgets, you’ll be able to fidget with a mini keyboard in style. check out our cute sticker sheets of pokemon, one piece, and more! swing by our table for a one of a kind experience each time you visit us :3",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/ishugo.co"
+		}
+	],
+	"assets": "ishugo"
+  },
+  {
+    "name": "captainedgeart",
+    "introduction": "Hey everyone! I'm Vika, the funny jojo lady that loves to draw beloved characters. Super hyped to see all of you, and am excited to see all of the fantastic work :D This is always an awesome event to go to <3 See you all soon!",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/captainedgeart"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/captainedgeart"
+		},
+		{
+			"type": "youtube",
+			"url": "https://www.youtube.com/channel/UCDIoqCvO7pFsMgLyGVAGJcA"
+		}
+	],
+	"assets": "captainedgeart"
+  },
+  {
+    "name": "AspenCatieArt",
+    "introduction": "Hi!:D I’m Caitlin “Catie” Morgan, a 4th year AGPM and Art double major that focuses on Illustration, Vis Dev, Game Design, and Production! I love to create illustrations of new worlds and critters, and try and incorporate them into the games I make. I’m so excited to share my art with you this SlugCon, see you there!✨",
+	"socials": [
+		{
+			"type": "website",
+			"url": "https://www.artstation.com/caitlinmorgan"
+		},
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/aspenarts.2020/"
+		}
+	],
+	"assets": "AspenCate"
+  },
+  {
+    "name": "anushka",
+    "introduction": "Hi, I'm Anushka! I create clay pins, figures and 3D sculptures. I also make a variety of drawings, including digital art, watercolor, gouache and acrylic. Majority of my 3D sculptures are made using polymer clay and air dry clay. My favorite are cute figures and dragons. For digital and traditional art I like to recreate characters or places from my favorite shows. Majority anime. In the future I shall be experimenting with more digital art as well big sculptures.",
+	"socials": [
+	],
+	"assets": "anushka"
+  },
+  {
+    "name": "wolfhotel",
+    "introduction": "I'm a storyboard artist with a passion for illustration and merch! I love dogs, live music, and all things spooky. :]",
+	"socials": [
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/wolfhotels"
+		},
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/wolfhotel/"
+		}
+	],
+	"assets": "wolfhotel",
+	"store": "https://wolfhotel.bigcartel.com/"
+  },
+  {
+    "name": "atlasmoth",
+    "introduction": "Hi! I'm Jess and I'm a 2D/3D video game artist. Im interested in creating environmental concept art and props. ",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/jesshaleyzog"
+		}
+	],
+	"assets": "atlasmoth"
+  },
+  {
+    "name": "atalina",
+    "introduction": "Hi I'm atalina, I like warm lighting and star motifs !!",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/atalina.art"
+		}
+	],
+	"assets": "atalina"
+  },
+  {
+    "name": "torii",
+    "introduction": "Hello, I play around with a bit of pixelart & gamedev. I'll be tabling at Slugcon with my housemates!",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "http://instagram.com/konpeit.png/"
+		}
+	],
+	"assets": "torii"
+  },
+  {
+    "name": "KnotXenos",
+    "introduction": "Hi! Im Helwa, 3rd year AGPM major and MENAS minor and I will be tabling at SlugCon!! I will have prints and keychains, along with commissions! I’m looking forward to seeing y’all there :D",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/knotxenos"
+		}
+	],
+	"assets": "KnotXenos"
+  },
+  {
+    "name": "Q",
+    "introduction": "Hi! The name’s Q and I’m a UCSC alumnus :3 I love anime, games, classic lit, and musicals so I tend to draw a little bit of everything o7",
+	"socials": [
+		{
+			"type": "carrd",
+			"url": "https://klqdraws.carrd.co"
+		}
+	],
+	"assets": "KLQ"
+  },
+  {
+    "name": "blu.goldfish",
+    "introduction": "Hi I am a capybara focused artist, and I sell cute art prints and stickers! https://www.instagram.com/blu.goldfish/",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/blu.goldfish/"
+		}
+	],
+	"assets": "bluoctopus"
+  },
+  {
+    "name": "yidelia",
+    "introduction": "Hihi! I'm El, a 3rd year AGPM student who specializes in character illustrations! I love drawing fanart for my favorite games such as Genshin Impact, FE:3H, and Nier: Automata! Nice to meet you all :D ",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/yideliaa/"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/yideliaa"
+		},
+		{
+			"type": "carrd",
+			"url": "https://yidelia.carrd.co"
+		}
+	],
+	"assets": "yidelia"
+  },
+  {
+    "name": "chiisagi",
+    "introduction": "Hi, I'm Chi (she/they) — art hobbyist and OC connoisseur! I studied astrophysics here in undergrad, and am now a graduate student in science communication. I'm super passionate about space, stationery, and especially original characters! Although I won't have any fan merch to sell, I'm looking forward to taking on-site commissions at SlugCon. Excited to meet people, chat about anime, and share the OC love together!! <3",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/chiisagi"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/chiisagi_art"
+		},
+		{
+			"type": "carrd",
+			"url": "https://chiisagi.carrd.co"
+		}
+	],
+	"assets": "chiisagi"
+  },
+  {
+    "name": "silmist",
+    "introduction": "Hi, I'm silmist! I like drawing vocal synths and painting food. That's pretty much 89 percent of my personality.",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/silmist11"
+		}
+	],
+	"assets": "silmist"
+  },
+  {
+    "name": "Fion",
+    "introduction": "Hello! My name is Fion and I'm an alumni from the Games program, but I'm actually quite bad at playing games. Huge anime fan here and got into JP vtubers the past few years, feel free to hit me up if you wanna talk about JP vtuber memes :D",
+	"socials": [
+		{
+			"type": "website",
+			"url": "https://klfion.artstation.com"
+		}
+	],
+	"assets": "Fion"
+  },
+  {
+    "name": "Knoxellius",
+    "introduction": "I’m Celeste! I’m studying Graphic Design and I’m an Art Major! I’ve collaborated with a lot of different events and Zines with my work! Nice to meet you! Follow my Instagram @knoxellius",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/knoxellius"
+		}
+	],
+	"assets": "Knoxellius"
+  },
+  {
+    "name": "SparrowMech",
+    "introduction": "Hi y'all! I'm Jacob (they/them), an aspiring queer concept artist and illustrator with a profound interest in visual storytelling and visual mediums. While I'd say my specialty is character design, I enjoy delving in all kinds of design! Most of my work is in digital illustration, however I have experience with 2D animation and 3D modeling, and hope to continue learning those mediums. I'm a huge fans of all kinds of video games from various genres, but if you ask me about Disco Elysium, Sayonara Wild Hearts, or Scavenger's Reign I will not stop talking and I'm incredibly sorry in advance. Much love to y'all <3",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/sparro.art"
+		}
+	],
+	"assets": "SparrowMech"
+  },
+  {
+    "name": "crochetsandpaints",
+    "introduction": "Hi! I'm Chanel. Besides being a student (Art and HAVC major), I enjoy crocheting and painting. I find myself crocheting more than painting now a days and tend to focus on making clothing and accessories. However, I've most recently been getting into making amigurumi. Crocheting helps me to feel more relaxed and I love making cute crochet items. I hope you enjoy my pieces just as much as I do!",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/cc_crochetsandpaints"
+		}
+	],
+	"assets": "chanelc"
+  },
+  {
+    "name": "jan.artchives",
+    "introduction": "hi! i’m jan and i crochet and do clay art of all my favorite characters. all my art is video games, shows, or movies!!",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/jan.artchives"
+		}
+	],
+	"assets": "janadag"
+  },
+  {
+    "name": "Jer",
+    "introduction": "Hello!! I'm Jer!(she/her) Currently, a second-year majoring in Art and Sociology. I usually do digital, watercolor, or acrylic art, and it's usually not anime... BUT I will be trying to sell posters, old art, buttons, and stickers. PLUS face painting or caricatures :) I really love webtoon and I'll do some anime art. Check me out!",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/Jer_drawss"
+		}
+	],
+	"assets": "Jer"
+  },
+  {
+    "name": "Oiya",
+    "introduction": "Hi, I'm Oiya, a third-year ecology & evolution major and traditional hobby artist (but I am also known for my Flipnote Studio art)! I sell a handful of prints of my work at art fests and Slugcon. You can find me as Chickenpoiya on Instagram and some other platforms. I draw both original character content and fanart, with the Fire Emblem series being most commonly seen in my art. I have worked on several Fire Emblem fanzines and hope to do more cool projects with my art in the future :)",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/chickenpoiya"
+		}
+	],
+	"assets": "Chickenpoiya"
+  },
+  {
+    "name": "@anniyell",
+    "introduction": "hi! my name is anael, im a filipino-american artist and designer, a ucsc cognitive science alum, and an enjoyer of too many things",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/anniyell"
+		},
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/anniyell"
+		},
+		{
+			"type": "website",
+			"url": "https://anniyell.com/"
+		}
+	],
+	"assets": "anniyell"
+  },
+  {
     "name": "a",
     "introduction": "a",
 	"socials": [
 		{
-			"type": "linktree",
-			"url": "https://linktr.ee/pexelukive"
+			"type": "instagram",
+			"url": "https://www.instagram.com/cc_crochetsandpaints/"
 		}
 	],
 	"assets": "shhhkun"
