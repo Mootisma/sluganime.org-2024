@@ -463,6 +463,10 @@
 		{
 			"type": "carrd",
 			"url": "https://yidelia.carrd.co"
+		},
+		{
+			"type": "website",
+			"url": "https://vgen.co/yidelia"
 		}
 	],
 	"assets": "yidelia"
