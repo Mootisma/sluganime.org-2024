@@ -599,13 +599,46 @@
   },
   {
     "name": "anxious_arsonist",
-    "introduction": "Hi there! My name is Athena Patronas, I go by pyro sometimes online! I be drawing. A WHOLE lot of my inspirations comes from web comics, cartoons, manga, Legend of Zelda, and Scooby Doo. If you also like those things I am always happy to chat about them!! Like literally, I will yap your ear off. Oh also, if you know any art books please please please share them with me! ",
+    "introduction": "Hi there! My name is Athena Patronas, I go by pyro sometimes online! I be drawing. A WHOLE lot of my inspirations comes from web comics, cartoons, manga, Legend of Zelda, and Scooby Doo. If you also like those things I am always happy to chat about them!! Like literally, I will yap your ear off. Oh also, if you know any art books please please please share them with me!",
 	"socials": [
 		{
 			"type": "instagram",
-			"url": "https://www.instagram.com/anxious_arsonist/"
+			"url": "https://www.instagram.com/anxious_arsonist"
 		}
 	],
 	"assets": "anxious_arsonist"
+  },
+  {
+    "name": "typo",
+    "introduction": "god i love fish",
+	"socials": [
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/TypoPpt"
+		}
+	],
+	"assets": "typo"
+  },
+  {
+    "name": "Stryx_lo",
+    "introduction": "Hey, I'm Ahmee (they/them)! I'm a small artist and second-year art major here at UCSC. I make hand-embroidered patches which I sell on my Etsy (AceOSpadesEmbroidery). I also do digital art and make cosplay props. Check out my stuff @stryx.lo on Instagram!",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/stryx.lo"
+		}
+	],
+	"assets": "Stryx_lo"
+  },
+  {
+    "name": "Snek",
+    "introduction": "Unemployed for a year gg",
+	"socials": [
+		{
+			"type": "twitter",
+			"url": "https://twitter.com/Sushisnek"
+		}
+	],
+	"assets": "snek"
   }
 ]
