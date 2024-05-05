@@ -28,7 +28,7 @@ const Home: NextPage = () => {
             📍 Merrill Cultural Center{" "}
           </h2>
           <div className="nav">
-            <a href="https://www.twitch.tv/slugcon" className="button">
+            <a href="https://www.twitch.tv/slugesports" className="button">
               Livestream
             </a>
             <Link href="/gallery">
