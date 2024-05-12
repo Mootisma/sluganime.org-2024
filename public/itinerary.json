@@ -1,29 +1,36 @@
 [
   {
-    "time": "9:99PM",
-    "title": "TBD",
-    "subtitle": "TBD"
+    "time": "1:00PM",
+    "title": "Opening"
   },
   {
-    "time": "9:99PM",
-    "title": "TBD",
-    "subtitle": "TBD"
+    "time": "1:15PM",
+    "title": "GDA Showcase",
+    "subtitle": "by Game Design and Art"
   },
   {
-    "time": "9:99PM",
-    "title": "TBD"
+    "time": "2:15PM",
+    "title": "Maid Cafe",
+    "subtitle": "by Slug Anime and Manga Association"
   },
   {
-    "time": "9:99PM",
-    "title": "TBD",
-    "subtitle": "TBD"
+    "time": "4:15PM",
+    "title": "Blue Bird + SpecialZ",
+	"subtitle": "by Diss on ant Band"
   },
   {
-    "time": "9:99PM",
-    "title": "TBD"
+    "time": "4:45PM",
+    "title": "Daisy Circuit",
+    "subtitle": "Performance by Daisy Circuit"
   },
   {
-    "time": "9:99PM",
-    "title": "TBD"
+    "time": "5:15PM",
+    "title": "Iaido",
+	"subtitle": "Demonstration by James Leyton"
+  },
+  {
+    "time": "5:45PM",
+    "title": "Smash Ultimate Top 4",
+	"subtitle": "by Fighting Game Club"
   }
 ]
