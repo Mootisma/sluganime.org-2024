@@ -670,5 +670,16 @@
 		}
 	],
 	"assets": "Lemoine"
+  },
+  {
+    "name": "Ruby",
+    "introduction": "Hi! My name is Ruby, I like to crochet and make handmade patches! I've been to many anime conventions but this will be the first that I am selling at. I'm really excited to be part of this event!",
+	"socials": [
+		{
+			"type": "instagram",
+			"url": "https://www.instagram.com/_rubydubysart_/"
+		}
+	],
+	"assets": "Ruby"
   }
 ]
