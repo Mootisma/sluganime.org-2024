@@ -37,6 +37,9 @@ const Home: NextPage = () => {
             <a className="button" href="#schedule">
               Schedule
             </a>
+			<a href="https://form.everestwebdeals.co/?form=1f895d4f4787a1933561dd98657c3e0e" className="button">
+              Maid Cafe Reservation
+            </a>
           </div>
         </div>
       </header>
